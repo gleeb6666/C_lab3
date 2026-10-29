@@ -1,0 +1,193 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1078" height="620" font-family="Arial, sans-serif">
+<rect width="1078" height="620" fill="white"/>
+<text x="539.0" y="30" font-size="20" text-anchor="middle" font-weight="bold">Варіант 10 (схема №10, nt=4): розподіл дій по потоках</text>
+<text x="539.0" y="55" font-size="13" text-anchor="middle">Одна клітинка = одна дія = 1 одиниця часу. Загальний час: 16 одиниць (64 дії / 4 потоки)</text>
+<text x="139.0" y="82" font-size="12" text-anchor="middle">1</text>
+<text x="197.0" y="82" font-size="12" text-anchor="middle">2</text>
+<text x="255.0" y="82" font-size="12" text-anchor="middle">3</text>
+<text x="313.0" y="82" font-size="12" text-anchor="middle">4</text>
+<text x="371.0" y="82" font-size="12" text-anchor="middle">5</text>
+<text x="429.0" y="82" font-size="12" text-anchor="middle">6</text>
+<text x="487.0" y="82" font-size="12" text-anchor="middle">7</text>
+<text x="545.0" y="82" font-size="12" text-anchor="middle">8</text>
+<text x="603.0" y="82" font-size="12" text-anchor="middle">9</text>
+<text x="661.0" y="82" font-size="12" text-anchor="middle">10</text>
+<text x="719.0" y="82" font-size="12" text-anchor="middle">11</text>
+<text x="777.0" y="82" font-size="12" text-anchor="middle">12</text>
+<text x="835.0" y="82" font-size="12" text-anchor="middle">13</text>
+<text x="893.0" y="82" font-size="12" text-anchor="middle">14</text>
+<text x="951.0" y="82" font-size="12" text-anchor="middle">15</text>
+<text x="1009.0" y="82" font-size="12" text-anchor="middle">16</text>
+<text x="98" y="120.0" font-size="14" text-anchor="end">Потік 1</text>
+<rect x="110" y="94" width="58" height="42" fill="#8ecae6" stroke="#333"/>
+<text x="139.0" y="120.0" font-size="15" text-anchor="middle">a1</text>
+<rect x="168" y="94" width="58" height="42" fill="#8ecae6" stroke="#333"/>
+<text x="197.0" y="120.0" font-size="15" text-anchor="middle">a2</text>
+<rect x="226" y="94" width="58" height="42" fill="#8ecae6" stroke="#333"/>
+<text x="255.0" y="120.0" font-size="15" text-anchor="middle">a3</text>
+<rect x="284" y="94" width="58" height="42" fill="#8ecae6" stroke="#333"/>
+<text x="313.0" y="120.0" font-size="15" text-anchor="middle">a4</text>
+<rect x="342" y="94" width="58" height="42" fill="#4cc9f0" stroke="#333"/>
+<text x="371.0" y="120.0" font-size="15" text-anchor="middle">h1</text>
+<rect x="400" y="94" width="58" height="42" fill="#4cc9f0" stroke="#333"/>
+<text x="429.0" y="120.0" font-size="15" text-anchor="middle">h2</text>
+<rect x="458" y="94" width="58" height="42" fill="#4cc9f0" stroke="#333"/>
+<text x="487.0" y="120.0" font-size="15" text-anchor="middle">h3</text>
+<rect x="516" y="94" width="58" height="42" fill="#4cc9f0" stroke="#333"/>
+<text x="545.0" y="120.0" font-size="15" text-anchor="middle">h4</text>
+<rect x="574" y="94" width="58" height="42" fill="#4cc9f0" stroke="#333"/>
+<text x="603.0" y="120.0" font-size="15" text-anchor="middle">h5</text>
+<rect x="632" y="94" width="58" height="42" fill="#f9c74f" stroke="#333"/>
+<text x="661.0" y="120.0" font-size="15" text-anchor="middle">c1</text>
+<rect x="690" y="94" width="58" height="42" fill="#f9c74f" stroke="#333"/>
+<text x="719.0" y="120.0" font-size="15" text-anchor="middle">c2</text>
+<rect x="748" y="94" width="58" height="42" fill="#f9c74f" stroke="#333"/>
+<text x="777.0" y="120.0" font-size="15" text-anchor="middle">c3</text>
+<rect x="806" y="94" width="58" height="42" fill="#f9c74f" stroke="#333"/>
+<text x="835.0" y="120.0" font-size="15" text-anchor="middle">c4</text>
+<rect x="864" y="94" width="58" height="42" fill="#e76f51" stroke="#333"/>
+<text x="893.0" y="120.0" font-size="15" text-anchor="middle">j1</text>
+<rect x="922" y="94" width="58" height="42" fill="#e76f51" stroke="#333"/>
+<text x="951.0" y="120.0" font-size="15" text-anchor="middle">j2</text>
+<rect x="980" y="94" width="58" height="42" fill="#e76f51" stroke="#333"/>
+<text x="1009.0" y="120.0" font-size="15" text-anchor="middle">j3</text>
+<line x1="342" y1="90" x2="342" y2="140" stroke="#d00000" stroke-width="4"/>
+<rect x="322" y="84" width="40" height="14" rx="3" fill="#d00000"/>
+<text x="342" y="95" font-size="10" fill="white" text-anchor="middle">a</text>
+<line x1="864" y1="90" x2="864" y2="140" stroke="#d00000" stroke-width="4"/>
+<rect x="844" y="84" width="40" height="14" rx="3" fill="#d00000"/>
+<text x="864" y="95" font-size="10" fill="white" text-anchor="middle">h,d</text>
+<text x="98" y="170.0" font-size="14" text-anchor="end">Потік 2</text>
+<rect x="110" y="144" width="58" height="42" fill="#8ecae6" stroke="#333"/>
+<text x="139.0" y="170.0" font-size="15" text-anchor="middle">a5</text>
+<rect x="168" y="144" width="58" height="42" fill="#8ecae6" stroke="#333"/>
+<text x="197.0" y="170.0" font-size="15" text-anchor="middle">a6</text>
+<rect x="226" y="144" width="58" height="42" fill="#8ecae6" stroke="#333"/>
+<text x="255.0" y="170.0" font-size="15" text-anchor="middle">a7</text>
+<rect x="284" y="144" width="58" height="42" fill="#90be6d" stroke="#333"/>
+<text x="313.0" y="170.0" font-size="15" text-anchor="middle">b1</text>
+<rect x="342" y="144" width="58" height="42" fill="#4cc9f0" stroke="#333"/>
+<text x="371.0" y="170.0" font-size="15" text-anchor="middle">h6</text>
+<rect x="400" y="144" width="58" height="42" fill="#4cc9f0" stroke="#333"/>
+<text x="429.0" y="170.0" font-size="15" text-anchor="middle">h7</text>
+<rect x="458" y="144" width="58" height="42" fill="#4cc9f0" stroke="#333"/>
+<text x="487.0" y="170.0" font-size="15" text-anchor="middle">h8</text>
+<rect x="516" y="144" width="58" height="42" fill="#4cc9f0" stroke="#333"/>
+<text x="545.0" y="170.0" font-size="15" text-anchor="middle">h9</text>
+<rect x="574" y="144" width="58" height="42" fill="#cdb4db" stroke="#333"/>
+<text x="603.0" y="170.0" font-size="15" text-anchor="middle">g1</text>
+<rect x="632" y="144" width="58" height="42" fill="#cdb4db" stroke="#333"/>
+<text x="661.0" y="170.0" font-size="15" text-anchor="middle">g2</text>
+<rect x="690" y="144" width="58" height="42" fill="#cdb4db" stroke="#333"/>
+<text x="719.0" y="170.0" font-size="15" text-anchor="middle">g3</text>
+<rect x="748" y="144" width="58" height="42" fill="#cdb4db" stroke="#333"/>
+<text x="777.0" y="170.0" font-size="15" text-anchor="middle">g4</text>
+<rect x="806" y="144" width="58" height="42" fill="#cdb4db" stroke="#333"/>
+<text x="835.0" y="170.0" font-size="15" text-anchor="middle">g5</text>
+<rect x="864" y="144" width="58" height="42" fill="#cdb4db" stroke="#333"/>
+<text x="893.0" y="170.0" font-size="15" text-anchor="middle">g6</text>
+<rect x="922" y="144" width="58" height="42" fill="#cdb4db" stroke="#333"/>
+<text x="951.0" y="170.0" font-size="15" text-anchor="middle">g7</text>
+<rect x="980" y="144" width="58" height="42" fill="#e76f51" stroke="#333"/>
+<text x="1009.0" y="170.0" font-size="15" text-anchor="middle">j4</text>
+<line x1="342" y1="140" x2="342" y2="190" stroke="#d00000" stroke-width="4"/>
+<rect x="322" y="134" width="40" height="14" rx="3" fill="#d00000"/>
+<text x="342" y="145" font-size="10" fill="white" text-anchor="middle">a</text>
+<line x1="980" y1="140" x2="980" y2="190" stroke="#d00000" stroke-width="4"/>
+<rect x="960" y="134" width="40" height="14" rx="3" fill="#d00000"/>
+<text x="980" y="145" font-size="10" fill="white" text-anchor="middle">h,d</text>
+<text x="98" y="220.0" font-size="14" text-anchor="end">Потік 3</text>
+<rect x="110" y="194" width="58" height="42" fill="#90be6d" stroke="#333"/>
+<text x="139.0" y="220.0" font-size="15" text-anchor="middle">b2</text>
+<rect x="168" y="194" width="58" height="42" fill="#90be6d" stroke="#333"/>
+<text x="197.0" y="220.0" font-size="15" text-anchor="middle">b3</text>
+<rect x="226" y="194" width="58" height="42" fill="#90be6d" stroke="#333"/>
+<text x="255.0" y="220.0" font-size="15" text-anchor="middle">b4</text>
+<rect x="284" y="194" width="58" height="42" fill="#90be6d" stroke="#333"/>
+<text x="313.0" y="220.0" font-size="15" text-anchor="middle">b5</text>
+<rect x="342" y="194" width="58" height="42" fill="#f8961e" stroke="#333"/>
+<text x="371.0" y="220.0" font-size="15" text-anchor="middle">d1</text>
+<rect x="400" y="194" width="58" height="42" fill="#f8961e" stroke="#333"/>
+<text x="429.0" y="220.0" font-size="15" text-anchor="middle">d2</text>
+<rect x="458" y="194" width="58" height="42" fill="#f8961e" stroke="#333"/>
+<text x="487.0" y="220.0" font-size="15" text-anchor="middle">d3</text>
+<rect x="516" y="194" width="58" height="42" fill="#f8961e" stroke="#333"/>
+<text x="545.0" y="220.0" font-size="15" text-anchor="middle">d4</text>
+<rect x="574" y="194" width="58" height="42" fill="#f4a261" stroke="#333"/>
+<text x="603.0" y="220.0" font-size="15" text-anchor="middle">i1</text>
+<rect x="632" y="194" width="58" height="42" fill="#f4a261" stroke="#333"/>
+<text x="661.0" y="220.0" font-size="15" text-anchor="middle">i2</text>
+<rect x="690" y="194" width="58" height="42" fill="#f4a261" stroke="#333"/>
+<text x="719.0" y="220.0" font-size="15" text-anchor="middle">i3</text>
+<rect x="748" y="194" width="58" height="42" fill="#f4a261" stroke="#333"/>
+<text x="777.0" y="220.0" font-size="15" text-anchor="middle">i4</text>
+<rect x="806" y="194" width="58" height="42" fill="#b5e48c" stroke="#333"/>
+<text x="835.0" y="220.0" font-size="15" text-anchor="middle">k1</text>
+<rect x="864" y="194" width="58" height="42" fill="#b5e48c" stroke="#333"/>
+<text x="893.0" y="220.0" font-size="15" text-anchor="middle">k2</text>
+<rect x="922" y="194" width="58" height="42" fill="#ffafcc" stroke="#333"/>
+<text x="951.0" y="220.0" font-size="15" text-anchor="middle">n1</text>
+<rect x="980" y="194" width="58" height="42" fill="#e76f51" stroke="#333"/>
+<text x="1009.0" y="220.0" font-size="15" text-anchor="middle">j5</text>
+<line x1="342" y1="190" x2="342" y2="240" stroke="#d00000" stroke-width="4"/>
+<rect x="322" y="184" width="40" height="14" rx="3" fill="#d00000"/>
+<text x="342" y="195" font-size="10" fill="white" text-anchor="middle">b</text>
+<line x1="922" y1="190" x2="922" y2="240" stroke="#d00000" stroke-width="4"/>
+<rect x="902" y="184" width="40" height="14" rx="3" fill="#d00000"/>
+<text x="922" y="195" font-size="10" fill="white" text-anchor="middle">c,i</text>
+<line x1="980" y1="190" x2="980" y2="240" stroke="#d00000" stroke-width="4"/>
+<rect x="960" y="184" width="40" height="14" rx="3" fill="#d00000"/>
+<text x="980" y="195" font-size="10" fill="white" text-anchor="middle">h,d</text>
+<text x="98" y="270.0" font-size="14" text-anchor="end">Потік 4</text>
+<rect x="110" y="244" width="58" height="42" fill="#90be6d" stroke="#333"/>
+<text x="139.0" y="270.0" font-size="15" text-anchor="middle">b6</text>
+<rect x="168" y="244" width="58" height="42" fill="#90be6d" stroke="#333"/>
+<text x="197.0" y="270.0" font-size="15" text-anchor="middle">b7</text>
+<rect x="226" y="244" width="58" height="42" fill="#90be6d" stroke="#333"/>
+<text x="255.0" y="270.0" font-size="15" text-anchor="middle">b8</text>
+<rect x="284" y="244" width="58" height="42" fill="#90be6d" stroke="#333"/>
+<text x="313.0" y="270.0" font-size="15" text-anchor="middle">b9</text>
+<rect x="342" y="244" width="58" height="42" fill="#f8961e" stroke="#333"/>
+<text x="371.0" y="270.0" font-size="15" text-anchor="middle">d5</text>
+<rect x="400" y="244" width="58" height="42" fill="#f8961e" stroke="#333"/>
+<text x="429.0" y="270.0" font-size="15" text-anchor="middle">d6</text>
+<rect x="458" y="244" width="58" height="42" fill="#f8961e" stroke="#333"/>
+<text x="487.0" y="270.0" font-size="15" text-anchor="middle">d7</text>
+<rect x="516" y="244" width="58" height="42" fill="#f8961e" stroke="#333"/>
+<text x="545.0" y="270.0" font-size="15" text-anchor="middle">d8</text>
+<rect x="574" y="244" width="58" height="42" fill="#f4a261" stroke="#333"/>
+<text x="603.0" y="270.0" font-size="15" text-anchor="middle">i5</text>
+<rect x="632" y="244" width="58" height="42" fill="#f4a261" stroke="#333"/>
+<text x="661.0" y="270.0" font-size="15" text-anchor="middle">i6</text>
+<rect x="690" y="244" width="58" height="42" fill="#f4a261" stroke="#333"/>
+<text x="719.0" y="270.0" font-size="15" text-anchor="middle">i7</text>
+<rect x="748" y="244" width="58" height="42" fill="#f4a261" stroke="#333"/>
+<text x="777.0" y="270.0" font-size="15" text-anchor="middle">i8</text>
+<rect x="806" y="244" width="58" height="42" fill="#b5e48c" stroke="#333"/>
+<text x="835.0" y="270.0" font-size="15" text-anchor="middle">k3</text>
+<rect x="864" y="244" width="58" height="42" fill="#b5e48c" stroke="#333"/>
+<text x="893.0" y="270.0" font-size="15" text-anchor="middle">k4</text>
+<rect x="922" y="244" width="58" height="42" fill="#ffafcc" stroke="#333"/>
+<text x="951.0" y="270.0" font-size="15" text-anchor="middle">n2</text>
+<rect x="980" y="244" width="58" height="42" fill="#ffafcc" stroke="#333"/>
+<text x="1009.0" y="270.0" font-size="15" text-anchor="middle">n3</text>
+<line x1="342" y1="240" x2="342" y2="290" stroke="#d00000" stroke-width="4"/>
+<rect x="322" y="234" width="40" height="14" rx="3" fill="#d00000"/>
+<text x="342" y="245" font-size="10" fill="white" text-anchor="middle">b</text>
+<line x1="922" y1="240" x2="922" y2="290" stroke="#d00000" stroke-width="4"/>
+<rect x="902" y="234" width="40" height="14" rx="3" fill="#d00000"/>
+<text x="922" y="245" font-size="10" fill="white" text-anchor="middle">c,i</text>
+<line x1="110" y1="317" x2="140" y2="317" stroke="#d00000" stroke-width="4"/>
+<text x="150" y="322" font-size="13">точка синхронізації: потік чекає std::latch завершення вказаних наборів</text>
+<text x="20" y="353" font-size="14" font-weight="bold" xml:space="preserve">Залежності схеми №10:</text>
+<text x="20" y="375" font-size="14" xml:space="preserve">  c, g, h — після завершення a;   d, i, k — після завершення b;</text>
+<text x="20" y="397" font-size="14" xml:space="preserve">  j — після завершення h і d;   n — після завершення c і i.</text>
+<text x="20" y="419" font-size="14" font-weight="bold" xml:space="preserve">Лічильники std::latch (count_down після кожної дії набору):</text>
+<text x="20" y="441" font-size="14" xml:space="preserve">  a_done(7) — обнуляється в кінці одиниці 3 (потік 2, дія a7)</text>
+<text x="20" y="463" font-size="14" xml:space="preserve">  b_done(9) — обнуляється в кінці одиниці 4 (потоки 3, 4)</text>
+<text x="20" y="485" font-size="14" xml:space="preserve">  d_done(8) — обнуляється в кінці одиниці 8 (потоки 3, 4)</text>
+<text x="20" y="507" font-size="14" xml:space="preserve">  h_done(9) — обнуляється в кінці одиниці 9 (потік 1, дія h5)</text>
+<text x="20" y="529" font-size="14" xml:space="preserve">  i_done(8) — обнуляється в кінці одиниці 12 (потоки 3, 4)</text>
+<text x="20" y="551" font-size="14" xml:space="preserve">  c_done(4) — обнуляється в кінці одиниці 13 (потік 1, дія c4)</text>
+<text x="20" y="573" font-size="14" font-weight="bold" xml:space="preserve">Від наборів g і k не залежить жодна дія, тому вони заповнюють потоки, поки j і n чекають своїх вхідних даних.</text>
+</svg>
